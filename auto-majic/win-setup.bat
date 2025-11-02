@@ -1,6 +1,6 @@
 @echo off
 echo ======================================
-echo        AUTO-MAGIC FOR WINDOWS
+echo        AUTO-MAJIC FOR WINDOWS
 echo ======================================
 
 python -m venv venv
