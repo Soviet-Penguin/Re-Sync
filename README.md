@@ -3,6 +3,7 @@
 Run the batch/sh files depending on your operating system:
 
  For Windows run ~>	win.bat
+
  For Linux/Mac run ~> ./lm.sh
 
 Dependencies are to be install using these files ONLY;
