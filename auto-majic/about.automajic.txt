@@ -1,2 +1,0 @@
-Auto-Majic is a tool for automatically downloading all dependencies needed
-by this project
