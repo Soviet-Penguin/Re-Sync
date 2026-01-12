@@ -9,3 +9,7 @@ Run the batch/sh files depending on your operating system:
 Dependencies are to be install using these files ONLY;
 
 Source code is in app.py, in the "src" folder
+
+
+
+*Hackathon project*
